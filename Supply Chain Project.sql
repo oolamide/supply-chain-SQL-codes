@@ -172,6 +172,3 @@ SELECT DISTINCT Market, shipping_status
 FROM Supply_Chain
 WHERE shipping_status = 'Late Deliveries'
 
-UPDATE Supply_Chain
-ADD Column AS 
-
